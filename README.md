@@ -1,5 +1,5 @@
 # CLOUD-VM-TASK
-# ☁ Task 2: Launch a Virtual Machine (VM) Instance using GitHub Codespaces
+# ☁ Launch a Virtual Machine (VM) Instance using GitHub Codespaces
 
 ## 🎯 Objective
 To understand how cloud virtual machines work by creating and connecting to a cloud-based Linux instance using GitHub Codespaces.
